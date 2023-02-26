@@ -1394,7 +1394,7 @@ input::placeholder {
   z-index: -999;
   width: 100%;
   height: 100%;
-  background: url(/img/space-earth-milky-way-eclipse.jpeg);
+  background: url(/img/Vadim_Sadovski_space_space_art_digital_art_artwork_illustration_science_fiction_black_holes-2198777.jpg);
   background-attachment: local;
   background-position: center;
   background-size: cover;
@@ -3664,7 +3664,7 @@ h1.page-title + .tag-cloud-list {
   text-align: center;
 }
 #pagination .page-number.current {
-  background: #00c4b6;
+  background: rgb(255 255 255 / 5%);
   color: var(--white);
 }
 #pagination .pagination-info {
